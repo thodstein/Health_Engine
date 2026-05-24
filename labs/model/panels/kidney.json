@@ -1,0 +1,30 @@
+{
+  "id": "kidney",
+  "name": "Почки",
+  "markers": {
+    "creatinine": {
+      "name": "Креатинин",
+      "unit": "мкмоль/л",
+      "optimal": [
+        60,
+        110
+      ]
+    },
+    "urea": {
+      "name": "Мочевина",
+      "unit": "ммоль/л",
+      "optimal": [
+        2.5,
+        8
+      ]
+    },
+    "egfr": {
+      "name": "eGFR",
+      "unit": "мл/мин",
+      "optimal": [
+        90,
+        120
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mk677",
+  "name": "MK-677",
+  "group": "SARM/GH secretagogue",
+  "typical_dose_mg_day": [
+    10,
+    25
+  ],
+  "route": "Oral",
+  "notes": "GH/IGF-1, аппетит, задержка воды"
+}

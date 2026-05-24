@@ -1,0 +1,30 @@
+{
+  "id": "glucose",
+  "name": "Углеводный обмен",
+  "markers": {
+    "glucose": {
+      "name": "Глюкоза натощак",
+      "unit": "ммоль/л",
+      "optimal": [
+        4,
+        5.3
+      ]
+    },
+    "hba1c": {
+      "name": "HbA1c",
+      "unit": "%",
+      "optimal": [
+        4.5,
+        5.4
+      ]
+    },
+    "insulin": {
+      "name": "Инсулин",
+      "unit": "мкЕд/мл",
+      "optimal": [
+        3,
+        10
+      ]
+    }
+  }
+}

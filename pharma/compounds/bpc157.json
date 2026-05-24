@@ -1,0 +1,12 @@
+{
+  "id": "bpc157",
+  "name": "BPC-157",
+  "group": "Peptide",
+  "subtype": "Tissue repair",
+  "typical_dose_mcg_day": [
+    250,
+    500
+  ],
+  "route": "SC",
+  "notes": "ЖКТ, связки, сухожилия"
+}

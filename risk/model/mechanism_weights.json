@@ -1,0 +1,16 @@
+{
+  "oxidative": 0.25,
+  "inflammation": 0.25,
+  "mitochondria": 0.2,
+  "detox": 0.15,
+  "hormones": 0.15,
+  "filtration": 0.15,
+  "pressure": 0.15,
+  "glucose": 0.15,
+  "lipids": 0.15,
+  "joints": 0.1,
+  "ligaments": 0.1,
+  "retina": 0.1,
+  "sleep": 0.2,
+  "stress": 0.2
+}

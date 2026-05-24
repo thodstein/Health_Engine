@@ -1,0 +1,25 @@
+{
+  "system": "Сон",
+  "mechanisms": [
+    {
+      "name": "Глубокий сон",
+      "before": 80,
+      "after": 60
+    },
+    {
+      "name": "REM",
+      "before": 70,
+      "after": 55
+    },
+    {
+      "name": "Восстановление ЦНС",
+      "before": 85,
+      "after": 65
+    },
+    {
+      "name": "Восстановление мышц",
+      "before": 75,
+      "after": 60
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "system": "Щитовидная железа",
+  "mechanisms": [
+    {
+      "name": "TSH",
+      "before": 60,
+      "after": 55
+    },
+    {
+      "name": "T4 → T3",
+      "before": 70,
+      "after": 55
+    },
+    {
+      "name": "Рецепторы",
+      "before": 55,
+      "after": 50
+    },
+    {
+      "name": "Автоиммунитет",
+      "before": 65,
+      "after": 55
+    }
+  ]
+}

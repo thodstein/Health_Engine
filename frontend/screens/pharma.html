@@ -1,0 +1,35 @@
+
+<div class="page">
+  <h1>Фарма и пептиды</h1>
+  <p class="subtitle">Соединения, группы, дозировки, калькулятор инъекций</p>
+
+  <div id="pharma-list"></div>
+
+  <div class="card" id="pharma-calc-card" style="margin-top:12px; display:none;">
+    <h2>Калькулятор дозы</h2>
+    <div class="calc-row">
+      <label>Препарат</label>
+      <div id="pharma-calc-name" class="pill"></div>
+    </div>
+    <div class="calc-row">
+      <label>Недельная доза (мг)</label>
+      <input id="weekly_dose_mg" type="number" inputmode="decimal" />
+    </div>
+    <div class="calc-row">
+      <label>Инъекций в неделю</label>
+      <input id="injections_per_week" type="number" inputmode="numeric" value="2" />
+    </div>
+    <div class="calc-row">
+      <label>Объём шприца (мл)</label>
+      <input id="syringe_volume_ml" type="number" inputmode="decimal" value="1" />
+    </div>
+    <div class="calc-row">
+      <label>Делений на шприце</label>
+      <input id="syringe_units" type="number" inputmode="numeric" value="100" />
+    </div>
+    <button id="pharma-calc-run">Рассчитать</button>
+
+    <div id="pharma-calc-result" class="calc-result"></div>
+  </div>
+</div>
+<script src="./pharma.js"></script>

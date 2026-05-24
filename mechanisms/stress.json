@@ -1,0 +1,20 @@
+{
+  "system": "Стресс",
+  "mechanisms": [
+    {
+      "name": "Кортизол",
+      "before": 75,
+      "after": 60
+    },
+    {
+      "name": "Ось HPA",
+      "before": 70,
+      "after": 55
+    },
+    {
+      "name": "Восстановление",
+      "before": 65,
+      "after": 55
+    }
+  ]
+}

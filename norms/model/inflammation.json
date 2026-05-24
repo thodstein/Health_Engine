@@ -1,0 +1,25 @@
+{
+  "panel": "Воспаление",
+  "markers": {
+    "crp": {
+      "name": "CRP",
+      "unit": "мг/л",
+      "min": 0,
+      "max": 5,
+      "optimal": [
+        0,
+        3
+      ]
+    },
+    "esr": {
+      "name": "СОЭ",
+      "unit": "мм/ч",
+      "min": 0,
+      "max": 20,
+      "optimal": [
+        0,
+        15
+      ]
+    }
+  }
+}

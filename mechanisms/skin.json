@@ -1,0 +1,25 @@
+{
+  "system": "Кожа",
+  "mechanisms": [
+    {
+      "name": "Барьер",
+      "before": 60,
+      "after": 50
+    },
+    {
+      "name": "Воспаление",
+      "before": 55,
+      "after": 45
+    },
+    {
+      "name": "Коллаген",
+      "before": 70,
+      "after": 55
+    },
+    {
+      "name": "Оксидативный стресс",
+      "before": 65,
+      "after": 50
+    }
+  ]
+}

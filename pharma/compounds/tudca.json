@@ -1,0 +1,15 @@
+{
+  "id": "tudca",
+  "name": "TUDCA",
+  "group": "Support",
+  "target": [
+    "Печень",
+    "ЖКТ"
+  ],
+  "typical_dose_mg_day": [
+    500,
+    1000
+  ],
+  "route": "Oral",
+  "notes": "Желчь, холестаз, защита печени"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "test_e",
+  "name": "Тестостерон энантат",
+  "group": "AAS",
+  "ester": "Enanthate",
+  "half_life_days": 5,
+  "concentration_mg_ml": 250,
+  "typical_dose_mg_week": [
+    250,
+    500
+  ],
+  "route": "IM",
+  "notes": "Базовый эфир, плавная кривая, 2 инъекции в неделю"
+}

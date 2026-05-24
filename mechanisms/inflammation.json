@@ -1,0 +1,25 @@
+{
+  "system": "Воспаление",
+  "mechanisms": [
+    {
+      "name": "CRP",
+      "before": 75,
+      "after": 55
+    },
+    {
+      "name": "ESR",
+      "before": 60,
+      "after": 50
+    },
+    {
+      "name": "Цитокины",
+      "before": 70,
+      "after": 55
+    },
+    {
+      "name": "Оксидативный стресс",
+      "before": 80,
+      "after": 60
+    }
+  ]
+}

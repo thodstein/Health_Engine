@@ -1,0 +1,30 @@
+{
+  "system": "Половые гормоны",
+  "mechanisms": [
+    {
+      "name": "Тестостерон / Эстрадиол",
+      "before": 60,
+      "after": 55
+    },
+    {
+      "name": "SHBG",
+      "before": 55,
+      "after": 50
+    },
+    {
+      "name": "Пролактин",
+      "before": 60,
+      "after": 55
+    },
+    {
+      "name": "Кортизол",
+      "before": 70,
+      "after": 60
+    },
+    {
+      "name": "Гонадная ось",
+      "before": 65,
+      "after": 55
+    }
+  ]
+}

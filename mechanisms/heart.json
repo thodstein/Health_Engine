@@ -1,0 +1,30 @@
+{
+  "system": "Сердце",
+  "mechanisms": [
+    {
+      "name": "ЧСС",
+      "before": 55,
+      "after": 50
+    },
+    {
+      "name": "Ударный объём",
+      "before": 60,
+      "after": 55
+    },
+    {
+      "name": "Проводимость",
+      "before": 50,
+      "after": 50
+    },
+    {
+      "name": "Afterload",
+      "before": 65,
+      "after": 55
+    },
+    {
+      "name": "Воспаление миокарда",
+      "before": 60,
+      "after": 50
+    }
+  ]
+}

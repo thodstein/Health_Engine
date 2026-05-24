@@ -1,0 +1,35 @@
+{
+  "panel": "Глюкоза",
+  "markers": {
+    "glucose": {
+      "name": "Глюкоза натощак",
+      "unit": "ммоль/л",
+      "min": 3.8,
+      "max": 6,
+      "optimal": [
+        4,
+        5.3
+      ]
+    },
+    "hba1c": {
+      "name": "HbA1c",
+      "unit": "%",
+      "min": 4,
+      "max": 6,
+      "optimal": [
+        4.5,
+        5.4
+      ]
+    },
+    "insulin": {
+      "name": "Инсулин",
+      "unit": "мкЕд/мл",
+      "min": 2,
+      "max": 20,
+      "optimal": [
+        3,
+        10
+      ]
+    }
+  }
+}

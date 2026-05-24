@@ -1,0 +1,22 @@
+{
+  "id": "inflammation",
+  "name": "Воспаление",
+  "markers": {
+    "crp": {
+      "name": "CRP",
+      "unit": "мг/л",
+      "optimal": [
+        0,
+        3
+      ]
+    },
+    "esr": {
+      "name": "СОЭ",
+      "unit": "мм/ч",
+      "optimal": [
+        0,
+        15
+      ]
+    }
+  }
+}

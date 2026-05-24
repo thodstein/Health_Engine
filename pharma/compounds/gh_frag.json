@@ -1,0 +1,12 @@
+{
+  "id": "gh_frag",
+  "name": "GH Fragment 176-191",
+  "group": "Peptide",
+  "subtype": "Lipolysis",
+  "typical_dose_mcg_day": [
+    500,
+    1000
+  ],
+  "route": "SC",
+  "notes": "Липолиз, несколько инъекций в день"
+}

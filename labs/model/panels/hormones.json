@@ -1,0 +1,46 @@
+{
+  "id": "hormones",
+  "name": "Гормоны",
+  "markers": {
+    "tsh": {
+      "name": "TSH",
+      "unit": "мЕд/л",
+      "optimal": [
+        0.4,
+        2.5
+      ]
+    },
+    "t4free": {
+      "name": "Св. T4",
+      "unit": "пмоль/л",
+      "optimal": [
+        12,
+        22
+      ]
+    },
+    "t3free": {
+      "name": "Св. T3",
+      "unit": "пмоль/л",
+      "optimal": [
+        3.1,
+        6.8
+      ]
+    },
+    "test": {
+      "name": "Тестостерон",
+      "unit": "нмоль/л",
+      "optimal": [
+        12,
+        30
+      ]
+    },
+    "estradiol": {
+      "name": "Эстрадиол",
+      "unit": "пмоль/л",
+      "optimal": [
+        40,
+        160
+      ]
+    }
+  }
+}

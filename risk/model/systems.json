@@ -1,0 +1,23 @@
+{
+  "liver": 0.12,
+  "kidney": 0.1,
+  "heart": 0.1,
+  "vessels": 0.1,
+  "lungs": 0.06,
+  "gut": 0.06,
+  "pancreas": 0.06,
+  "thyroid": 0.05,
+  "hormones": 0.06,
+  "immunity": 0.06,
+  "inflammation": 0.08,
+  "metabolism": 0.08,
+  "bones": 0.03,
+  "joints": 0.03,
+  "ligaments": 0.03,
+  "eyes": 0.03,
+  "skin": 0.02,
+  "cns": 0.12,
+  "pns": 0.04,
+  "sleep": 0.05,
+  "stress": 0.05
+}

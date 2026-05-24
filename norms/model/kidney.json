@@ -1,0 +1,35 @@
+{
+  "panel": "Почки",
+  "markers": {
+    "creatinine": {
+      "name": "Креатинин",
+      "unit": "мкмоль/л",
+      "min": 60,
+      "max": 115,
+      "optimal": [
+        70,
+        100
+      ]
+    },
+    "urea": {
+      "name": "Мочевина",
+      "unit": "ммоль/л",
+      "min": 2.5,
+      "max": 8,
+      "optimal": [
+        3,
+        7
+      ]
+    },
+    "egfr": {
+      "name": "eGFR",
+      "unit": "мл/мин",
+      "min": 60,
+      "max": 130,
+      "optimal": [
+        90,
+        120
+      ]
+    }
+  }
+}

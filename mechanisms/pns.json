@@ -1,0 +1,25 @@
+{
+  "system": "ПНС",
+  "mechanisms": [
+    {
+      "name": "Миелин",
+      "before": 60,
+      "after": 50
+    },
+    {
+      "name": "Проводимость",
+      "before": 55,
+      "after": 50
+    },
+    {
+      "name": "Воспаление",
+      "before": 65,
+      "after": 55
+    },
+    {
+      "name": "Микроциркуляция",
+      "before": 60,
+      "after": 50
+    }
+  ]
+}

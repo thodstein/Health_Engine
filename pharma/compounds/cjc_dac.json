@@ -1,0 +1,12 @@
+{
+  "id": "cjc_dac",
+  "name": "CJC-1295 DAC",
+  "group": "Peptide",
+  "subtype": "GHRH",
+  "typical_dose_mcg_week": [
+    1000,
+    2000
+  ],
+  "route": "SC",
+  "notes": "Длительный GHRH, 1–2 инъекции в неделю"
+}

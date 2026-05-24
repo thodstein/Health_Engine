@@ -1,0 +1,30 @@
+{
+  "metabolic": {
+    "glucose": 0.25,
+    "hba1c": 0.25,
+    "insulin": 0.25,
+    "tg": 0.25
+  },
+  "liver": {
+    "alt": 0.3,
+    "ast": 0.3,
+    "ggt": 0.2,
+    "bilirubin": 0.2
+  },
+  "kidney": {
+    "creatinine": 0.5,
+    "urea": 0.2,
+    "egfr": 0.3
+  },
+  "inflammation": {
+    "crp": 0.6,
+    "esr": 0.4
+  },
+  "hormonal": {
+    "tsh": 0.3,
+    "t4free": 0.2,
+    "t3free": 0.2,
+    "test": 0.2,
+    "estradiol": 0.1
+  }
+}

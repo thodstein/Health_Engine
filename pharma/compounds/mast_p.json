@@ -1,0 +1,14 @@
+{
+  "id": "mast_p",
+  "name": "Мастерон пропионат",
+  "group": "AAS",
+  "ester": "Propionate",
+  "half_life_days": 2,
+  "concentration_mg_ml": 100,
+  "typical_dose_mg_week": [
+    300,
+    600
+  ],
+  "route": "IM",
+  "notes": "SHBG, лёгкий андроген, визуал"
+}

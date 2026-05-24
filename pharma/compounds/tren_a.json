@@ -1,0 +1,14 @@
+{
+  "id": "tren_a",
+  "name": "Тренболон ацетат",
+  "group": "AAS",
+  "ester": "Acetate",
+  "half_life_days": 2,
+  "concentration_mg_ml": 100,
+  "typical_dose_mg_week": [
+    200,
+    400
+  ],
+  "route": "IM",
+  "notes": "Высокий риск по ЦНС, сердцу, сну"
+}

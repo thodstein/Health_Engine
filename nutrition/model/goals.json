@@ -1,0 +1,39 @@
+{
+  "goals": {
+    "cut": {
+      "id": "cut",
+      "name": "Сушка / дефицит",
+      "deficit_pct": 0.2,
+      "description": "Минус 15–25% от поддержки, приоритет сохранения мышц и контроля стресса"
+    },
+    "recomp": {
+      "id": "recomp",
+      "name": "Рекомпозиция",
+      "deficit_pct": 0.05,
+      "description": "Лёгкий дефицит/баланс, приоритет качества тела и метаболизма"
+    },
+    "bulk": {
+      "id": "bulk",
+      "name": "Масса / профицит",
+      "surplus_pct": 0.1,
+      "description": "Плюс 5–15% от поддержки, приоритет роста мышц при контроле жира"
+    }
+  },
+  "macros_templates": {
+    "cut": {
+      "protein_g_kg": 2.2,
+      "fat_pct": 0.25,
+      "carbs_pct": 0.55
+    },
+    "recomp": {
+      "protein_g_kg": 2,
+      "fat_pct": 0.3,
+      "carbs_pct": 0.5
+    },
+    "bulk": {
+      "protein_g_kg": 1.8,
+      "fat_pct": 0.3,
+      "carbs_pct": 0.5
+    }
+  }
+}
