@@ -1,0 +1,12 @@
+{
+  "id": "base",
+  "name": "Base Support",
+  "reduction": {
+    "oxidative": 0.1,
+    "inflammation": 0.1,
+    "mitochondria": 0.05,
+    "detox": 0.05,
+    "sleep": 0.05,
+    "stress": 0.05
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "medium",
+  "name": "Medium Support",
+  "reduction": {
+    "oxidative": 0.2,
+    "inflammation": 0.2,
+    "mitochondria": 0.15,
+    "detox": 0.1,
+    "sleep": 0.1,
+    "stress": 0.1
+  }
+}

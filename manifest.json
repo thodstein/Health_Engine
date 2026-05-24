@@ -1,0 +1,9 @@
+
+{
+  "name": "Health Engine",
+  "short_name": "HealthEngine",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}

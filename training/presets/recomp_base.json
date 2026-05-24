@@ -1,0 +1,120 @@
+{
+  "id": "recomp_base",
+  "name": "Рекомпозиция (база)",
+  "phase": "recomp",
+  "weeks": 8,
+  "freq_per_week": 3,
+  "split": "Full body",
+  "notes": "Базовая рекомпозиция для натурала/лайт‑фармы",
+  "days": [
+    {
+      "day": 1,
+      "focus": "Силовая база",
+      "blocks": [
+        {
+          "type": "main",
+          "name": "Присед",
+          "sets": 4,
+          "reps": "5–6",
+          "rir": 2
+        },
+        {
+          "type": "main",
+          "name": "Жим лёжа",
+          "sets": 4,
+          "reps": "5–6",
+          "rir": 2
+        },
+        {
+          "type": "assist",
+          "name": "Тяга в наклоне",
+          "sets": 3,
+          "reps": "8–10",
+          "rir": 1
+        },
+        {
+          "type": "assist",
+          "name": "Жим стоя",
+          "sets": 3,
+          "reps": "8–10",
+          "rir": 1
+        },
+        {
+          "type": "accessory",
+          "name": "Пресс",
+          "sets": 3,
+          "reps": "12–15",
+          "rir": 1
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "focus": "Тяга + спина",
+      "blocks": [
+        {
+          "type": "main",
+          "name": "Тяга классика",
+          "sets": 3,
+          "reps": "4–5",
+          "rir": 2
+        },
+        {
+          "type": "main",
+          "name": "Подтягивания/тяга вертикальная",
+          "sets": 4,
+          "reps": "6–8",
+          "rir": 1
+        },
+        {
+          "type": "assist",
+          "name": "Гребля",
+          "sets": 3,
+          "reps": "8–10",
+          "rir": 1
+        },
+        {
+          "type": "accessory",
+          "name": "Бицепс",
+          "sets": 3,
+          "reps": "10–12",
+          "rir": 1
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "focus": "Общая масса",
+      "blocks": [
+        {
+          "type": "main",
+          "name": "Фронтальный присед/жим ногами",
+          "sets": 4,
+          "reps": "6–8",
+          "rir": 1
+        },
+        {
+          "type": "main",
+          "name": "Жим гантелей",
+          "sets": 4,
+          "reps": "8–10",
+          "rir": 1
+        },
+        {
+          "type": "assist",
+          "name": "Разведения/дельты",
+          "sets": 3,
+          "reps": "12–15",
+          "rir": 1
+        },
+        {
+          "type": "accessory",
+          "name": "Трицепс",
+          "sets": 3,
+          "reps": "10–12",
+          "rir": 1
+        }
+      ]
+    }
+  ]
+}

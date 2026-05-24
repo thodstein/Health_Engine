@@ -1,0 +1,12 @@
+{
+  "id": "maximum",
+  "name": "Maximum Support",
+  "reduction": {
+    "oxidative": 0.35,
+    "inflammation": 0.35,
+    "mitochondria": 0.25,
+    "detox": 0.2,
+    "sleep": 0.2,
+    "stress": 0.2
+  }
+}

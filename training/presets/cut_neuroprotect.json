@@ -1,0 +1,70 @@
+{
+  "id": "cut_neuroprotect",
+  "name": "Сушка + нейропротекция",
+  "phase": "cut",
+  "weeks": 6,
+  "freq_per_week": 4,
+  "split": "Upper/Lower + кардио",
+  "notes": "Дефицит, контроль ЦНС, умеренные объёмы",
+  "days": [
+    {
+      "day": 1,
+      "focus": "Upper (силовой)",
+      "blocks": [
+        {
+          "type": "main",
+          "name": "Жим лёжа",
+          "sets": 4,
+          "reps": "4–6",
+          "rir": 2
+        },
+        {
+          "type": "main",
+          "name": "Тяга в наклоне",
+          "sets": 4,
+          "reps": "6–8",
+          "rir": 2
+        },
+        {
+          "type": "assist",
+          "name": "Жим стоя",
+          "sets": 3,
+          "reps": "8–10",
+          "rir": 1
+        },
+        {
+          "type": "accessory",
+          "name": "Дельты/руки",
+          "sets": 3,
+          "reps": "10–12",
+          "rir": 1
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "focus": "Lower + кардио",
+      "blocks": [
+        {
+          "type": "main",
+          "name": "Присед",
+          "sets": 4,
+          "reps": "5–6",
+          "rir": 2
+        },
+        {
+          "type": "assist",
+          "name": "Румынская тяга",
+          "sets": 3,
+          "reps": "8–10",
+          "rir": 1
+        },
+        {
+          "type": "cardio",
+          "name": "LISS 30–40 мин",
+          "intensity": "низкая"
+        }
+      ]
+    }
+  ]
+}
