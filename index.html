@@ -6,7 +6,38 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://telegram.org https://api.telegram.org; style-src 'self' 'unsafe-inline' https://yastatic.net; img-src 'self' data: https:; connect-src 'self' https://api.telegram.org">
   <link rel="stylesheet" href="styles.css">
+  
+  <!-- Подключаем официальный скрипт -->
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  
+  <!-- ЗАГЛУШКА: Если скрипт выше не загрузился (таймаут), создаем фейковый объект, чтобы сайт не упал -->
+  <script>
+    if (!window.Telegram || !window.Telegram.WebApp) {
+      console.warn('Telegram SDK not loaded (timeout). Using fallback.');
+      window.Telegram = {
+        WebApp: {
+          ready: function() { console.log('Fake Ready'); },
+          expand: function() {},
+          close: function() {},
+          initData: "",
+          initDataUnsafe: {},
+          version: "fallback",
+          platform: "unknown",
+          colorScheme: "light",
+          themeParams: {},
+          MainButton: { show: function(){}, hide: function(){}, setText: function(){}, onClick: function(){} },
+          BackButton: { show: function(){}, hide: function(){}, onClick: function(){} },
+          onEvent: function() {},
+          offEvent: function() {}
+        }
+      };
+      // Вызываем ready сразу, чтобы твой app.js запустился
+      setTimeout(() => {
+        if (typeof initApp === 'function') initApp(); 
+        // Или просто даем коду время выполниться, если у тебя нет функции initApp
+      }, 500);
+    }
+  </script>
 </head>
 <body>
   <div id="app"></div>
